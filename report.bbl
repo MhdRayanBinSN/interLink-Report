@@ -1,0 +1,53 @@
+\begin{thebibliography}{10}
+
+\bibitem{banks2020learningreact}
+Alex Banks and Eve Porcello.
+\newblock {\em Learning React}.
+\newblock O'Reilly Media, 2020.
+
+\bibitem{brown2019webdevelopment}
+Ethan Brown.
+\newblock {\em Web Development with Node and Express}.
+\newblock O'Reilly Media, 2019.
+
+\bibitem{devto2025}
+Dev.to Community.
+\newblock Dev.to - a community for web developers, 2025.
+\newblock Accessed: 2025-03-30.
+
+\bibitem{nodejsdocs2025}
+Node.js Foundation.
+\newblock Node.js documentation, 2025.
+\newblock Accessed: 2025-03-30.
+
+\bibitem{jones2020collaborativewriting}
+Sarah Jones.
+\newblock Collaborative writing tools: Enhancing team creativity.
+\newblock {\em Journal of Creative Technologies}, 15(2):112--130, 2020.
+
+\bibitem{medium2025}
+Medium.
+\newblock Medium - articles on building platforms, 2025.
+\newblock Accessed: 2025-03-30.
+
+\bibitem{mdnwebdocs2025}
+Mozilla.
+\newblock Mdn web docs, 2025.
+\newblock Accessed: 2025-03-30.
+
+\bibitem{awsdocs2025}
+Amazon~Web Services.
+\newblock Aws s3 documentation, 2025.
+\newblock Accessed: 2025-03-30.
+
+\bibitem{smith2021usercentereddesign}
+John Smith.
+\newblock User-centered design for digital storytelling platforms.
+\newblock {\em Journal of Interactive Media}, 10(4):45--58, 2021.
+
+\bibitem{reactdocs2025}
+React Team.
+\newblock React official documentation, 2025.
+\newblock Accessed: 2025-03-30.
+
+\end{thebibliography}

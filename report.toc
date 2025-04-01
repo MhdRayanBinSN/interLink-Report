@@ -1,0 +1,38 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {paragraph}{}{1}{}%
+\contentsline {chapter}{\numberline {2}Problem Statement}{3}{}%
+\contentsline {paragraph}{}{3}{}%
+\contentsline {chapter}{\numberline {3}Literature Review}{5}{}%
+\contentsline {section}{\numberline {3.1}\textbf {Firebase}}{5}{}%
+\contentsline {section}{\numberline {3.2}\textbf {Heroku}}{5}{}%
+\contentsline {section}{\numberline {3.3}\textbf {Bubble}}{5}{}%
+\contentsline {paragraph}{}{5}{}%
+\contentsline {chapter}{\numberline {4}System Analysis}{7}{}%
+\contentsline {paragraph}{}{7}{}%
+\contentsline {section}{\numberline {4.1}Existing System}{7}{}%
+\contentsline {section}{\numberline {4.2}Proposed System}{8}{}%
+\contentsline {subsection}{\numberline {4.2.1}Overview}{8}{}%
+\contentsline {subsection}{\numberline {4.2.2}Advantages}{8}{}%
+\contentsline {subsection}{\numberline {4.2.3}System Architecture}{8}{}%
+\contentsline {chapter}{\numberline {5}System Design}{11}{}%
+\contentsline {section}{\numberline {5.1} Design Diagrams }{11}{}%
+\contentsline {subsection}{\numberline {5.1.1}Use Case Diagram}{11}{}%
+\contentsline {subsection}{\numberline {5.1.2}Sequence Diagram}{12}{}%
+\contentsline {subsection}{\numberline {5.1.3}Data Flow Diagram}{12}{}%
+\contentsline {subsection}{\numberline {5.1.4}Activity diagram}{14}{}%
+\contentsline {subsection}{\numberline {5.1.5}Class diagram}{15}{}%
+\contentsline {section}{\numberline {5.2}Functional and Nonfunctional Requirements}{16}{}%
+\contentsline {section}{\numberline {5.3}Hardware and Software Requirements}{17}{}%
+\contentsline {section}{\numberline {5.4}Project Scheduling }{18}{}%
+\contentsline {section}{\numberline {5.5}GUI Design}{19}{}%
+\contentsline {section}{\numberline {5.6}Database Design}{23}{}%
+\contentsline {subsection}{\numberline {5.6.1} ER Diagram}{23}{}%
+\contentsline {subsection}{\numberline {5.6.2}Tables}{24}{}%
+\contentsline {chapter}{\numberline {6}System Implementation }{25}{}%
+\contentsline {paragraph}{}{25}{}%
+\contentsline {section}{\numberline {6.1}Modules}{25}{}%
+\contentsline {chapter}{\numberline {7}Conclusion and Future Scope}{27}{}%
+\contentsline {paragraph}{}{27}{}%
+\contentsline {paragraph}{}{27}{}%
+\contentsline {chapter}{Bibliography}{28}{}%
